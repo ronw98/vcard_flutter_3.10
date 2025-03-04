@@ -3,6 +3,18 @@ Ca peut être sympa de jouer à Lycans avec le mod **New Roles** qui rajoute des
 
 Pour installer ce mod c'est relativement simple.
 
+## Détail du modpack
+### New roles
+C'est le seul et unique mode, il permet plein de trucs tels que:
+- Rajouter des petits métiers en villageois qui rendent leur game plus sympa
+- Rajouter des rôles tels que idiot du village (qui gagne s'il est voté en conseil), traitre (villageois qui est dans le camp des loups) ou Amoureux
+- Rajouter des effets de potions
+- Jouer à 15 au lieu de 10
+- D'autre trucs
+
+Si vous voulez plus de détails:
+https://thunderstore.io/c/lycans/p/Nales/LycansNewRoles/
+
 ## Prérequis
 - Installer lycans depuis Steam
 - Installer `r2modman`, le mod manager
