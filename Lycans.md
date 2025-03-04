@@ -50,7 +50,7 @@ Choisir un nom, on s'en fout et cliquer sur "create"
 Sélectionner le profil nouvellement créé en cliquant sur le profil puis sur "Select profile"
 ![image](https://github.com/user-attachments/assets/1c81e1df-8852-4dcf-9002-3bfd6e54f926)
 
-Lancer le jeu moddé en cliquant sur "Start modded"
+Lancer le jeu moddé en cliquant sur "Start modded" (en haut à gauche)
 ![image](https://github.com/user-attachments/assets/48b3c039-3bda-4543-b9f4-f26ad9d19a0d)
 
 Quand le jeu se lance il doit y avoir la version du mod en bas à gauche de l'écran
