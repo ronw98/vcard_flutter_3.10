@@ -55,7 +55,7 @@ Lancer le jeu moddé en cliquant sur "Start modded" (en haut à gauche)
 
 Quand le jeu se lance il doit y avoir la version du mod en bas à gauche de l'écran
 
-![image](https://github.com/user-attachments/assets/c6153ecb-2d08-489c-8634-a3fb1ec047b8)
+<img width="239" height="83" alt="image" src="https://github.com/user-attachments/assets/8b0f5ced-999d-441b-8271-d7ae95e5a7b9" />
 
 ## Tir de problème (Troubleshooting)
 De mon côté l'install s'est super bien passée mais au cas où voici le wiki qui a quelques conseils en cas de problèmes: https://lycans-modding.github.io/LMWiki/Jouer/Installer-des-mods/#r2modman-recommande
