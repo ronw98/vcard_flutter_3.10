@@ -35,7 +35,7 @@ Une fois dans la sélection de profil, cliquer sur "Import / Update" pour import
 Dans le dialogue, sélectionner "from code"
 ![image](https://github.com/user-attachments/assets/b8d5a31d-46e2-4b93-a5ee-8f90e5d0b8e9)
 
-Puis coller `019a279c-8315-e21c-5413-94f5295c2c20` et cliquer sur "continue"
+Puis coller `019a4b01-d811-d1d1-03e9-1fa0372aff80` et cliquer sur "continue"
 ![image](https://github.com/user-attachments/assets/c0ab3868-0dfc-492f-baaf-903ba9eea8ad)
 
 Les mods à installer seront listés comme dans la capture suivante et cliquer sur "Import"
